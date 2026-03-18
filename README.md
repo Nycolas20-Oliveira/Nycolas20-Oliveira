@@ -29,3 +29,6 @@
   </a>
 </div>    
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nycolas20-Oliveira/Nycolas20-Oliveira/output/github-contribution-grid-snake-dark.svg" />
+</div>
