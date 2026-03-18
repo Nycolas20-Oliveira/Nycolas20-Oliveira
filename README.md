@@ -1,4 +1,6 @@
-Hello, I'm Nycolas 👋
+<div align="edge">   <img src="https://readme-typing-svg.herokuapp.com/?color=7F5AF0&size=28&center=true&vCenter=true&width=400&lines=Hello,+my+name+is+Nycolas" />
+</div>
+
 
 💻 Programming Student
 
