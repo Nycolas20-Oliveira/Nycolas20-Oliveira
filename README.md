@@ -22,13 +22,6 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div> 
-                   <div align="center">
-  <a href="https://github.com/Nycolas20-Oliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nycolas20-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=7f5af0&icon_color=2f81f7&text_color=c9d1d9&bg_color=0d1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolas20-Oliveira&layout=compact&langs_count=8&theme=tokyonight&title_color=7f5af0&text_color=c9d1d9&bg_color=0d1117"/>
-  </a>
-</div>    
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nycolas20-Oliveira/Nycolas20-Oliveira/output/github-contribution-grid-snake-dark.svg" />
 </div>
